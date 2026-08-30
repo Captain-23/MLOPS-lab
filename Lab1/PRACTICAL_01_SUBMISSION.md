@@ -15,7 +15,7 @@
 
 ---
 
-## 2. Pinned Requirements (`work/my_requirements.txt`)
+## 2. Pinned Requirements (`my_requirements.txt`)
 
 Contents of `work/my_requirements.txt` generated during Task T2:
 
